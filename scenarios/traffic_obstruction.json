@@ -1,0 +1,4 @@
+{
+  "id": "traffic_obstruction_1",
+  "description": "Ride R_900: Passenger p_66 is en route to airport. check_traffic shows a major accident with large delay. Recalculate alternate route, notify passenger and driver, and check flight status to provide context."
+}

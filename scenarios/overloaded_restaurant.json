@@ -1,0 +1,4 @@
+{
+  "id": "overloaded_rest_1",
+  "description": "Order #A123: merchant m_22 reports prep_time_min=40, driver d_9 is idle nearby, customer c_55 expects food in 20 minutes. Resolve with minimal wait and minimal driver idle time."
+}

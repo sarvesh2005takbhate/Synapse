@@ -1,0 +1,7 @@
+google-genai
+langchain
+langchain-google-genai
+python-dotenv
+rich
+pytest
+streamlit
