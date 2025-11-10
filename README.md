@@ -323,26 +323,13 @@ This project demonstrates professional-grade AI agent development. Contributions
 - **Modular Design**: Easy to extend and maintain
 - **Production Deployment**: Ready for cloud platforms like Streamlit Cloud
 
-## 📝 License
-MIT License - See GitHub repository for details
-
-## 👨‍💻 Author
-**Aarav Singla** - [GitHub](https://github.com/aaravsingla)
-
-## 🙏 Acknowledgments
-
-Built with cutting-edge technologies:
-- **🤖 Google Gemini AI** - Advanced reasoning and decision-making
-- **🚀 Streamlit** - Professional web interface and deployment
-- **🐍 Python Ecosystem** - Robust foundation and tooling
-- **☁️ Streamlit Cloud** - Seamless deployment and hosting
-
 ---
 
 **⚡ Ready to see AI agents in action?** 
 **👉 Try the live demo: [https://synapse-grabhack.streamlit.app/](https://synapse-grabhack.streamlit.app/)**
 
 *Synapse demonstrates how AI agents can handle complex, multi-step logistics problems while maintaining safety through policy-based decision making - perfect for learning advanced AI development patterns.*
+
 
 
 
